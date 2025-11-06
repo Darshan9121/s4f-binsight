@@ -29,7 +29,7 @@ In Ahmedabad, **only 35% of households segregate waste properly** — contaminat
 - 👨‍💼 **Admin dashboard** to review predictions & retrain model
 - 🛠️ **100% local**: Runs on your machine — **no cloud, no login, no external APIs**
 
-Built as a **Minor Project** by B.Tech IT students under **Prof. Naimish Patel**.
+Built as a **Minor Project** by B.Tech IT students under **.
 
 ---
 
